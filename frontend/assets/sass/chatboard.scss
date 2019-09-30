@@ -1,0 +1,7 @@
+.chatboard {
+ height: calc(100vh - 160px);
+ overflow-y: auto;
+ border: 2px solid rgb(180, 180, 180);
+ border-radius: 8px;
+ margin: 16px;
+}
